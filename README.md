@@ -1,5 +1,5 @@
 ## Hi! I'm Leonardo Balan, better known as Lens Balan 👋
-![LensBalan GitHub stats](https://github-readme-stats.vercel.app/api?username=LensBalan&show_icons=true&theme=radical)
+![Lens GitHub stats](https://github-readme-stats.vercel.app/api?username=LensBalan&show_icons=true&theme=dracula&count_private=true)
 
 ##### *Social media links and accounts:*
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lens.balan/)
