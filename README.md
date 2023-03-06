@@ -12,4 +12,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LensBalan&hide_progress=false)](https://github.com/LensBalan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LensBalan&hide_progress=true)](https://github.com/LensBalan/github-readme-stats)
